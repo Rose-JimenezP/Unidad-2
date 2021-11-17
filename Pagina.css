@@ -1,0 +1,29 @@
+*{margin: 0 ; padding: 0 ;}
+header{background-color: skyblue; width:100% ; overflow: hidden;}
+body{background-color: slateblue;}
+.encriptado-caja{width: 600px; height: 300px; resize: none; }
+.caja1,.caja2{text-align: center;}
+.codigo-caja{width: 600px; height: 20px;}
+.encriptado-caja,.codigo-caja{background-color: white;
+    border: none;}
+
+#msj{margin-left: 370px;}
+#codigo{margin-left: 370px;}
+
+#botones{text-align: center;}
+
+#en,#des{background-color: aquamarine; 
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 0.5cm; 
+    width: 150px; height: 50px;
+    border-radius: 0.2cm;
+    border: none;
+}
+
+#des{margin-left: 20px;}
+
+#en:hover,#des:hover{background-color: cadetblue; color: cornsilk;} 
+
+
+
+
